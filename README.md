@@ -1,2 +1,2 @@
-# Mikesellsgeorgia.com
-This is a repository for the website mikesellsgeorgia.com.
+# Kylewebdev_Portfolio
+This website serves as my portfolio for web projects at kyleweb.dev
