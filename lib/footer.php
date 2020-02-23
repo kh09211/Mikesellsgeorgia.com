@@ -5,7 +5,7 @@
  */
 ?>
 <div id="footer">
-	<h4 class="text-light text-center">&copy kyleweb.dev</h4>
+	<h4 class="text-light text-center">&copy Mikesellsgeorgia.com</h4>
 	<br>
 </div>
 </body>

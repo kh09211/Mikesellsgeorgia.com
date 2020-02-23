@@ -18,8 +18,8 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
 
-	<title>Kyleweb.dev</title>
-	<link rel="shortcut icon" href="../media/favicon.ico" />
+	<title>Mike Sells Georgia</title>
+	<link rel="shortcut icon" href="../media/house.ico" />
 </head>
 <body>
 	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
@@ -27,18 +27,18 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 	<div class="header_photo text-center"> <!-- boder bottom txt went here -->
 		<div class="container" id="top">
-			<nav class="navbar navbar-expand-lg navbar-light">
+			<nav class="navbar navbar-expand-lg navbar-light ml-3">
 			  <a class="navbar-brand" href="#"><img class="logo rounded-circle" src="media/mhopkins2.jpg" />&nbsp<b>Mike Sells Georgia</b></a>
 			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 			    <span class="navbar-toggler-icon"></span>
 			  </button>
-			  <div class="collapse navbar-collapse mr-3 flex-column-reverse" id="navbarNav">
+			  <div class="collapse navbar-collapse flex-column-reverse" id="navbarNav">
 			    <ul class="navbar-nav">
 			    	<li class="nav-item active">
-			        <a class="nav-link" href="#portfolio">Portfolio<span class="sr-only">(current)</span></a>
+			        <a class="nav-link" href="#portfolio">Homes<span class="sr-only">(current)</span></a>
 			      </li>
 			      <li class="nav-item active">
-			        <a class="nav-link" href="#resume">Resume</a>
+			        <a class="nav-link" href="#resume">Testimonials</a>
 			      </li>
 			      <li class="nav-item">
 			        <a class="nav-link" href="#about">About</a>
