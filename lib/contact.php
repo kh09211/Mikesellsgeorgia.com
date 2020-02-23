@@ -4,8 +4,8 @@
  */
 
 if (isset($_POST['submit'])) {
-	$to = 'kh09211@georgiasouthern.edu';
-	$subject = '!!!! MIKE SELLS GEORGIA: NEW MESSAGE FROM: ' . $_POST['the_name'] . 'Looking to ' . $_POST['buysell'] .'a home !!!!';
+	$to = 'mikehop@cox.net';
+	$subject = '!!!! MIKE SELLS GEORGIA: NEW MESSAGE FROM: ' . $_POST['the_name'] . ' Looking to ' . $_POST['buysell'] .' a home !!!!';
 	$message = 'Clients email: ' . $_POST['email'] . "\r\n" . 'Client is looking to: ' . $_POST['buysell'] . "\r\n" . $_POST['the_name'] . ' says: ' . $_POST['textbox'];
 	$headers = array (
 		'From' => 'kylewebdevmail@gmail.com',

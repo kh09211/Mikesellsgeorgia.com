@@ -79,23 +79,12 @@ a.nav-link {
 a.nav-link:hover {
 	font-size: 22px;
 }
-/*
-main {
-	margin: 15px 10% 0 10%;
-}
-@media screen and (max-width: 480px) {
-	main {
-		margin: 15px 5% 0 5%;
-	}
-}
-*/
 p {
 	font-size:18px;
 	color: #665A66;
 }
 div.desc {
 	text-align: justify;
-	/* margin: 0 5px 20px 5px;  <--- Use these margins if border added to cols */
 }
 /* This css below tries to keep the bottom border of each col equal at all screen sizes */
 div.fulllength {
@@ -115,19 +104,12 @@ img.w-100 {
 	border-width: 3px;
 }
 div.bluebox {
-	/* resume tab */
-	/*
-	background-color: #94B3AE;
-	width: 100%;
-	*/
-	/* note: paddings below also go with the bluebox style*/
-
 	padding-top: 10vh;
 	padding-bottom: 50vh;
 	background-image: url("../media/house2.jpg");
 	background-repeat: no-repeat;
   	background-attachment: fixed;
-  	background-position: center -0px;
+  	background-position: center 0px;
   	background-size: cover;
 }
 div#testimonials {
@@ -161,7 +143,7 @@ div.testimonial-box {
 	}
 }
 div.divider-box-last {
-	background-color: #B38BB3;;
+	background-color: #B38BB3;
 	width: 100%;
 	height: 50px;
 }
@@ -174,7 +156,7 @@ div.divider-box{
 	/* dimentions only add color with bootstrap bg-color*/
 	height: 20px;
 	width: 100%;
-	background-color: #E6FFFB; /* #B2DAEE alternative*/
+	background-color: #E6FFFB;
 }
 div#contact-form textarea {
 	width: 50vw;
