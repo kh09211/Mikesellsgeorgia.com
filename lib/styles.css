@@ -2,7 +2,6 @@
  * site colors: #B303B3 665A66 BFBAA8 707F7D E6FFFB;
 */
 .header_photo {
-	/* background-color: #B3B0B3; */
 	background-image: url("../media/house1.jpg");
 	background-repeat: no-repeat;
   	background-attachment: fixed;
@@ -10,7 +9,6 @@
   	background-size: cover;
   	width: 100%;
   	height: 90vh;
-  	/* height: 90vh;  120 */
 } 
 a {
 	color: #665A66;

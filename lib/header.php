@@ -38,7 +38,7 @@
 			        <a class="nav-link" href="#portfolio">Homes<span class="sr-only">(current)</span></a>
 			      </li>
 			      <li class="nav-item active">
-			        <a class="nav-link" href="#resume">Testimonials</a>
+			        <a class="nav-link" href="#testimonials">Testimonials</a>
 			      </li>
 			      <li class="nav-item">
 			        <a class="nav-link" href="#about">About</a>
